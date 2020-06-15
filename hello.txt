@@ -2,3 +2,4 @@ Hello,world!
 Hello,Fan Yafei!
 It is a bug test.
 Git is a free software.
+Today is a good day..
